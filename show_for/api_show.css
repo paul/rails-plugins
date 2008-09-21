@@ -1,0 +1,24 @@
+dl.table-display {
+  border-bottom: 1px solid #999;
+}
+
+.table-display dt, dd {
+  padding: 0.2em 0.5em;
+}
+
+.table-display dt {
+  width:15em;
+  float: left;
+  margin: 0;
+  border-top: 1px solid #999;
+  font-weight: bold;
+}
+
+.table-display dd {
+  width: 25em;
+  margin-left: 16em;
+}
+
+.table-display dd.first {
+  border-top: 1px solid #999;
+}
