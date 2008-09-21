@@ -42,6 +42,10 @@ In rails 2.0, the form_for is rather inflexible, this may have changed in 2.1.0,
 
 See the readme for more samples and docs.
 
+## Show For -- `show-for`
+
+A helper for building show pages, similar to `form_for`. Creates a definition list of titles/attributes.
+
 
         
 
